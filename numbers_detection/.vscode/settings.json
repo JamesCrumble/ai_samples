@@ -1,0 +1,9 @@
+{
+    // "python.pythonPath": "/home/james/miniconda3/envs/tf/include/python3.10",
+    "python.pythonPath": "/home/james/miniconda3/bin/python3.10",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    // "python.linting.flake8Enabled": false,
+    // "python.linting.pylintEnabled": true,
+    // "python.linting.enabled": true,
+}
